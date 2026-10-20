@@ -1,5 +1,4 @@
 # Cloudflare Gateway Adblock Updater
-# Author: SeriousHoax
 # GitHub: https://github.com/SeriousHoax
 # License: MIT
 

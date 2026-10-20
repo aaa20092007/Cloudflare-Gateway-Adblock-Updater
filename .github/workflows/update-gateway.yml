@@ -1,8 +1,6 @@
 name: Cloudflare Gateway Adblock Updater
 
 on:
-  schedule:
-    - cron: '0 */3 * * *'  # Runs every 3 hours
   workflow_dispatch:     # Allows manual runs
 
 jobs:
